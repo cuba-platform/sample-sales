@@ -1,3 +1,5 @@
+**ATTENTION! This sample is built for outdated platform version. See [sample-sales-cuba7](https://github.com/cuba-platform/sample-sales-cuba7) for the latest version.**
+
 # Sales
 
 This is a "Hello World" application which is designed to show the core capabilities and features of both the CUBA Platform and Studio.
